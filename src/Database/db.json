@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Tharushika Ashani",
+      "username": "tharu1998",
+      "email": "tharushikaashani998@gmail.com",
+      "phone": "0779169839",
+      "id": 1
+    },
+    {
+      "name": "Sidu Nimmani",
+      "username": "sidu2005",
+      "email": "SiduNimmani009@gmail.com",
+      "phone": "0711219297",
+      "id": 2
+    },
+    {
+      "name": "Araliya Kalupahana",
+      "username": "Arali1975",
+      "email": "Araliyakalupahana74@gmail.com",
+      "phone": "0788866305",
+      "id": 3
+    },
+    {
+      "name": "Tharindu Ashan",
+      "username": "Tharindu5",
+      "email": "tharinduashan997@gmail.com",
+      "phone": "0777190631",
+      "id": 4
+    },
+    {
+      "name": "Hasini Dilhara",
+      "username": "Hasini90",
+      "email": "Hasinidilhara90@gmail.com",
+      "phone": "0112875490",
+      "id": 5
+    }
+  ]
+}

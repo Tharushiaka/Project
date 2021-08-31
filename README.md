@@ -1,3 +1,40 @@
+# Netlify Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/74e8bb11-3331-4f7c-a87a-a4fb5fd6d7ea/deploy-status)](https://app.netlify.com/sites/elastic-hopper-3d8d8a/deploys)
+
+# Library Management System
+
+## Terllo : https://trello.com/b/chZ4hYzY
+#### User Story 01 : https://trello.com/c/ayhTqU32
+#### User Story 02 : https://trello.com/c/wnGzlvka
+#### User Story 03 : https://trello.com/c/TLMfwyOC
+#### User Story 04 : https://trello.com/c/WAlqM7Ku
+#### User Story 05 : https://trello.com/c/POilZCxB
+
+
+![TrelloBorad](https://user-images.githubusercontent.com/69831766/131212058-c9f6b099-1e4e-41c9-9d48-5b8814275492.JPG)
+
+
+## Home Page
+
+![Screenshot (74)](https://user-images.githubusercontent.com/69831766/129481260-78e616e7-4b10-4c7e-90c0-ff9c15ce1bf2.png)
+
+## All Users Page ( Edit & Delete )
+
+![Screenshot (65)](https://user-images.githubusercontent.com/69831766/129481273-7b2fc565-fe06-43d1-b99d-8e1254a64789.png)
+
+## Add User Page
+
+![Capturex](https://user-images.githubusercontent.com/69831766/129481279-9e7f24cc-b038-4188-9aff-68206f575128.JPG)
+
+## Edit User Page
+
+![Capture](https://user-images.githubusercontent.com/69831766/129481282-97143636-126e-4ec2-9b2f-38a1f7cd3786.JPG)
+
+## 404 Error Page
+
+![Capture](https://user-images.githubusercontent.com/69831766/131210788-9bcb4726-dcf5-46fa-804a-bb864f70b1ac.JPG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
